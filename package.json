@@ -1,0 +1,11 @@
+{
+    "name": "com.unitysupport.tools",
+    "displayName": "Unity Support Tools",
+    "description": "Useful tools for working with Unity projects.",
+    "version": "0.0.1",
+    "unity": "6000.0",
+    "author": {
+        "name": "Jian Wei Tan",
+        "url": "https://github.com/jwtan/com.unitysupport.tools"
+    }
+}
